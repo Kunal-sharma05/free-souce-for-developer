@@ -617,3 +617,8 @@ Table of Contents
   * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
+
+## Credit
+This repository is a combination of two repositories that have listed some free sources. Credit is given below.
+* https://github.com/jixserver/free-for-dev
+* https://github.com/ripienaar/free-for-dev
