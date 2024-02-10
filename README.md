@@ -1921,3 +1921,10 @@ HTML Themes and UI Kits to create your applications faster!
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## Credit
+This repository is a combination of two repositories that have listed some free sources. Credit is given below.
+* https://github.com/jixserver/free-for-dev
+* https://github.com/ripienaar/free-for-dev
+
+ **[⬆️ Back to Top](#table-of-contents)**
